@@ -9,3 +9,6 @@
 * :man_astronaut: Cadete na [42sp](https://www.42sp.org.br/)
 * 💻 Estudante de engenharia de software
 
+
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={frassiszs1}
